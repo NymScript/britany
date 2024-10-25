@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite errors="0" failures="0" tests="1" skipped="0" name=".home.fabrica.Downloads.pruebaBritany.britany.test.widget" timestamp="2024-10-25T17:59:48">
+    <properties>
+      <property name="platform" value="vm"/>
+    </properties>
+    <testcase classname=".home.fabrica.Downloads.pruebaBritany.britany.test.widget" name="Prueba simple" time="0.014"/>
+  </testsuite>
+</testsuites>
